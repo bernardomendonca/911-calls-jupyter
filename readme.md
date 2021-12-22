@@ -8,7 +8,7 @@ Interactive data explorer showing the clustering of 911 calls in Motgomery Count
 ![clustermap](./clustermap_day_hour.png)
 
 ## Clustermap
-![ridge](./ridge.png)
+![ridge](./ridge_day_hour.png)
 
 ## Dataset
 Dataset from Emergency (911) Calls: Fire, Traffic, EMS for Montgomery County, PA [Kaggle](https://www.kaggle.com/mchirico/montcoalert)
